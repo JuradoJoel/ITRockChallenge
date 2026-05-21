@@ -196,6 +196,8 @@ curl -X POST "https://localhost:7209/tasks/import" \
 
 El proyecto incluye una colección de Postman para facilitar las pruebas manuales de los endpoints.
 
+Importar el archivo `postman/ITRockChallenge.postman_collection.json` en Postman.
+
 La colección:
 
 - Obtiene automáticamente el token JWT
