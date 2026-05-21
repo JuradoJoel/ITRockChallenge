@@ -18,7 +18,7 @@ API REST desarrollada con ASP.NET Core 8 para la gestión de tareas con autentic
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/JuradoJoel/ITRockChallenge
+git clone https://github.com/JuradoJoel/ITRockChallenge.git
 ```
 
 ---
